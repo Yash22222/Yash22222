@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Airline Sentiment Analysis & Find Customer Trends](https://github.com/Yash22222/IBM-CSRBOX-Internship-Project)
 
-- 🌱 I’m currently learning **My SQL**
+- 🌱 I’m Currently Learning **My SQL**
 
-- 👨‍💻 All of my projects are available at [https://yashshirsath.infobay.in/](https://yashshirsath.infobay.in/)
+- 👨‍💻 All of my Projects are Available at <a href="https://yashshirsath.infobay.in/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
 - 📫 How to reach me **yashshirsath@gmail.com**
 
-- 📄 Know about my experiences <a href="https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf](https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf">My Resume</a>
+- 📄 Know About my Experiences <a href="https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf](https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf">My Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://g.dev/yashshirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/yashshirsath" height="30" width="40" /></a>
