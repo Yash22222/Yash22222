@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Ashok Shirsath</h1>
-<h3 align="center">Motivated and detail-oriented entry-level data analyst with a solid foundation in data analysis techniques and tools.</h3>
+<h3 align="center">Motivated and Detail-Oriented Entry-level Data Analyst with a solid foundation in Data Analysis Techniques and Tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
 
