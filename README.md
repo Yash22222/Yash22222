@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash22222" alt="yash22222" /></a> </p>
-
+<img align = "right", alt="coding" width="400" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
 - 🔭 I’m currently working on [Airline Sentiment Analysis & Find Customer Trends](https://github.com/Yash22222/IBM-CSRBOX-Internship-Project)
 
 - 🌱 I’m Currently Learning **My SQL**
-<img align = "right", alt="coding" width="200" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
+
 - 👨‍💻 All of my Projects are Available at <a href="https://yashshirsath.infobay.in/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
 - 📫 How to reach me **yashshirsath@gmail.com**
