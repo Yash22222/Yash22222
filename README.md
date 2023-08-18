@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Ashok Shirsath</h1>
 <h3 align="center">Motivated and Detail-Oriented Entry-level Data Analyst with a solid foundation in Data Analysis Techniques and Tools.</h3>
-<img align = "right", alt="coding" width="200" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg" alt="Flowers in Chania" style="width:1000px;height:00px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
@@ -9,7 +8,7 @@
 - 🔭 I’m currently working on [Airline Sentiment Analysis & Find Customer Trends](https://github.com/Yash22222/IBM-CSRBOX-Internship-Project)
 
 - 🌱 I’m Currently Learning **My SQL**
-
+<img align = "right", alt="coding" width="200" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
 - 👨‍💻 All of my Projects are Available at <a href="https://yashshirsath.infobay.in/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
 - 📫 How to reach me **yashshirsath@gmail.com**
