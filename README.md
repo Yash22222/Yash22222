@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ashok Shirsath</h1>
 <h3 align="center">Motivated and Detail-Oriented Entry-level Data Analyst with a solid foundation in Data Analysis Techniques and Tools.</h3>
-
+<img align = "right", alt="coding" width="200" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg" alt="Flowers in Chania" style="width:1000px;height:00px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
