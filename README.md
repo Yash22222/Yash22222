@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Ashok Shirsath</h1>
 <h3 align="center">Motivated and Detail-Oriented Entry-level Data Analyst with a solid foundation in Data Analysis Techniques and Tools.</h3>
 
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg" alt="Flowers in Chania" style="width:1000px;height:00px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash22222" alt="yash22222" /></a> </p>
