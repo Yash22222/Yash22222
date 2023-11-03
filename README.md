@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my Projects are Available at <a href="https://yashashokshirsath.netlify.app/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
-- 📫 How to reach me **yashshirsath@gmail.com**
+- 📫 How to reach me **<a href="https://yashashokshirsath.netlify.app/#contact">Click Here to Contact Me</a>**
 
 - 📄 Know About my Experiences <a href="https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf](https://yashshirsath.infobay.in/Yash%20Resume%20(1).pdf">My Resume</a>
 
