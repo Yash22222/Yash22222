@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash22222" alt="yash22222" /></a> </p>
 <img align = "right", alt="coding" width="400" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/media/71ede79677ee111676bb3e77819392d4.gif">
 
-- 🔭 I’m currently working on <a href="https://github.com/Yash22222/IBM-CSRBOX-Internship-Project/">Airline Data Analysis & Find Customer Trends</a>
+- 🔭 I’m currently working on <a href="https://github.com/Yash22222/TERRORIST-ACTIVITY-FORECASTING-AND-RISK-ASSESSMENT-SYSTEM">TERRORIST ACTIVITY FORECASTING AND RISK ASSESSMENT SYSTEM</a>
 
 - 🌱 I’m Currently Learning **My SQL**
 
-- 👨‍💻 All of my Projects are Available at <a href="https://yashshirsath.infobay.in/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
+- 👨‍💻 All of my Projects are Available at <a href="https://yashashokshirsath.netlify.app/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
 - 📫 How to reach me **yashshirsath@gmail.com**
 
