@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Yash22222/TERRORIST-ACTIVITY-FORECASTING-AND-RISK-ASSESSMENT-SYSTEM">TERRORIST ACTIVITY FORECASTING AND RISK ASSESSMENT SYSTEM</a>
 
-- 🌱 I’m Currently Learning **My SQL**
+- 🌱 I’m Currently Learning **LangChain**
 
 - 👨‍💻 All of my Projects are Available at <a href="https://yashashokshirsath.netlify.app/">Portfolio</a> & <a href="https://github.com/Yash22222">GitHub</a>
 
