@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Ashok Shirsath</h1>
 <h3 align="center">AI-900, DP-900, 1Z0-771, 1Z0-1110-25 Certified | Sr. Executive IT@USFBL | Oracle & MSS | Python | Tableau, Power BI, Excel | ML | DL | Azure | Agentic AI |</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash22222&label=Profile%20views&color=0e75b6&style=flat" alt="yash22222" /> </p>
 
