@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash22222&show_icons=true&locale=en" alt="yash22222" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash22222&" alt="yash22222" /></p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash22222&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
